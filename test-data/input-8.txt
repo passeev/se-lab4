@@ -1,0 +1,5 @@
+# Depletion across multiple SINGLE shots: P then S then none left
+GT4500,1,0,1,0
+TORPEDO,SINGLE   # P
+TORPEDO,SINGLE   # S
+TORPEDO,SINGLE   # none left -> failure
