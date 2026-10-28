@@ -1,0 +1,3 @@
+# First shot when primary empty but secondary stocked: should try the other store
+GT4500,0,0,1,0
+TORPEDO,SINGLE

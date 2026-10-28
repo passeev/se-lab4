@@ -1,0 +1,4 @@
+# Cooling rule with empty next store: secondary empty, should go to primary
+GT4500,2,0,0,0
+TORPEDO,SINGLE   # expect success (primary)
+TORPEDO,SINGLE   # next-in-line (secondary) empty -> try primary again -> success

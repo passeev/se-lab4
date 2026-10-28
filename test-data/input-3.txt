@@ -1,0 +1,3 @@
+# SINGLE: fires a failure does not try again -> overall failure
+GT4500,1,1.0,1,1.0
+TORPEDO,SINGLE
